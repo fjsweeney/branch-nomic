@@ -36,3 +36,7 @@ Generally:
 # Rule 301
 ## Playing
 There exists a story, and within it, each player has a character. A player should describe their character's qualities, location, etc.  when joining the game. Once each turn, a player can have their character interact with the story and the other characters in a significant way. A player can have a character can interact in an insignificant way at any time.
+
+# Rule 302
+## Currency?
+Every turn, a player can have a star interact with their character, granting them 1 stardust.
